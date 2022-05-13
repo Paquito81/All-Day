@@ -5,3 +5,5 @@ An application run with HTML, CSS, Javascript powered by Jquery. Usage a simple 
 
 
 https://github.com/Paquito81/All-Day.git
+git@github.com:Paquito81/All-Day.git
+https://paquito81.github.io/All-Day/
